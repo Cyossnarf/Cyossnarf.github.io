@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "fr-FR"
 title                    : "François Buet"
 title_separator          : "-"
 name                     : &name "François Buet"
@@ -22,13 +22,13 @@ repository               : "Cyossnarf/Cyossnarf.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  # name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Chercheur postdoctoral en Traitement Automatique des Langues au LISN"
+  location         : "Orsay, France"
+  employer         : "Université Paris-Saclay, CNRS"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "francois.buet@lisn.upsaclay.fr" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/buet_f_1.html" # URL - Update with the correct link to your profile
