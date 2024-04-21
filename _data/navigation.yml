@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications (HAL)"
     url: https://cv.hal.science/francois-buet
 
   - title: "Enseignements"
     url: /teaching/
     
   - title: "CV"
-    url: /cv/
+    url: "/files/2024-03_BUET François CV.pdf"
