@@ -22,3 +22,7 @@ Les étudiants doivent également réaliser un projet de programmation en Java p
 
 [Vidéo de présentation du cours](https://www.lri.fr/~chatalic/Enseignement/intro_ia/)
 
+![My Image](/images/iia-2021-tournoi-interface.png)
+
+![My Image](/images/iia-2022-tournoi-interface.png)
+
