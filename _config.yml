@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "François Buet"
   pronouns         : # example: "she/her"  
-  bio              : "Chercheur postdoctoral en Traitement Automatique des Langues au LISN"
-  location         : "Orsay, France"
-  employer         : "Université Paris-Saclay, CNRS"
+  bio              : "Maître de conférences à TELECOM Nancy"
+  location         : "Nancy, France"
+  employer         : "Université de Lorraine"
   uri              : # URL
-  email            : "francois.buet@lisn.upsaclay.fr" 
+  email            : "francois.buet@loria.fr" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/buet_f_1.html" # URL - Update with the correct link to your profile
