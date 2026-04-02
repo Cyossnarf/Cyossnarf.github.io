@@ -13,5 +13,5 @@ Bases de l'algorithmique et exercices classiques de programmation (structures de
 
 * Public : [Parcours des écoles d'ingénieurs Polytech](https://www.polytech.universite-paris-saclay.fr/formations/cycle-preparatoire-de-polytech-peip) (PeiP2 ~ L2)
 * Responsable : [Joël Falcou](https://www.lri.fr/~falcou/) (2018-2020), [François Pirot](https://www.lri.fr/~fpirot/) (2021)
-* Heures statutaires : 124 (TD/TP)
+* CM : 0 h; TD: 124 h
 

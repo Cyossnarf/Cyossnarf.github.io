@@ -13,5 +13,5 @@ Rappels sur les bases de l'algorithmique et de la programmation, et introduction
 
 * Public : [Polytech Cycle Ingénieur en Filière Étudiante](https://www.polytech.universite-paris-saclay.fr/formations/filiere-etudiante) (Et3 Tronc Commun ~ M2)
 * Responsable : [Joël Falcou](https://www.lri.fr/~falcou/)
-* Heures statutaires : 14 (TD/TP)
+* CM : 0 h; TD: 14 h
 

@@ -13,5 +13,5 @@ Concepts génériques de l'Informatique (architecture, codage de données, compi
 
 * Public : [Parcours des écoles d'ingénieurs Polytech](https://www.polytech.universite-paris-saclay.fr/formations/cycle-preparatoire-de-polytech-peip) (PeiP1 ~ L1)
 * Responsable : Joël Gay
-* Heures statutaires : 26 (TD)
+* CM : 0 h; TD: 26 h
 

@@ -15,7 +15,7 @@ Bases Mathématiques préparant à l'étude de l'Informatique en général, et �
   * [Licence Informatique](https://ecole-universitaire-paris-saclay.fr/formation/licence/informatique) ([L2 Informatique](https://ecole-universitaire-paris-saclay.fr/formation/licence/informatique/l2-informatique))
   * [Licence Double-Diplôme Informatique, Management](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/informatique-management) ([LDD2 Informatique, Management](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/informatique-management/ldd2-informatique-management))
 * Responsable : [François Landes](https://www.lri.fr/~flandes/index.html)
-* Heures statutaires : 14 (TD/TP)
+* CM : 0 h; TD: 14 h
 
 Les thèmes abordés sont la logique propositionnelle et ce qui en découle directement (définitions des ensembles, raisonnements sur les ensembles et les propositions), le dénombrement et les probabilités (probabilités conditionnelles, variables aléatoires, statistiques), et l'algèbre linéaire (diagonalisation, valeurs propres, vecteurs propres).
 
